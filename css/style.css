@@ -2,10 +2,10 @@ a {
   font-family: 'Sen', sans-serif;
   display: block;
   margin: 10px;
-  color: lime;
-  text-decoration: none;
+  color: green;
 }
 
 a:hover {
-  color: green;
+  color: lime;
+  text-decoration: none;
 }
